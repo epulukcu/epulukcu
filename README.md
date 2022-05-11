@@ -14,7 +14,7 @@
 
 ## TECH STACK
 
-* **Programming Languages:** Python, Java, SQL, JavaScript
+* **Programming Languages:** Python, Java, C++, C# SQL, JavaScript
 * **Markup Languages:** HTML, CSS
 * **Framework/Software:** Django, Boostrap, Unity, LaTeX
 
