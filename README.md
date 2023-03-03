@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Elif 👋</h1>
-<h2 align="center">Computer Science Student, Data Science Enthusiast</h2>
+<strong><p style="font-size: larger" align="center">Computer Science Student, Data Science Enthusiast</p></strong>
 
  - 🔭 I’m currently working on a web scrapping project.
 	
- - 🌱 I’m interested in **Machine Learning** , **Data Science**, **NLP and **Chatbots**! 
+ - 🌱 I’m interested in **Machine Learning** , **Data Science**, **NLP** and **Chatbots**! 
 
  - 🥅 One of my 2023 goals is contribute more to open source projects.
 
