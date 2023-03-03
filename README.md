@@ -19,6 +19,14 @@
 
 <h2>Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epulukcu&layout=compact&theme=radical&card_width=500)
+<div align="left" id="stats"> 
 
-![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=epulukcu&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=radical&card_width=500)
+<!-- <div align="center" id="stats">  -->
+<!-- ya da -->
+<!-- <div align="right" id="stats">  -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epulukcu&layout=compact&theme=radical&card_width=500">
+
+<img src="https://github-readme-stats.vercel.app/api?username=epulukcu&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=radical&card_width=500">
+
+</div>
